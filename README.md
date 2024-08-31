@@ -8,3 +8,6 @@ VRGK (Virtual Reality Game Kit) is a very useful VR template for Unreal Engine. 
 It is available for Unreal Engine 4.25, 4.26 and 4.27. Although so, since I had converted it to 5.1 a few months ago and it worked like a charm, I've now converted it to 5.3 for public use. It is not yet tested, but it should work without problems. Do let me know if you encounter issues.
 
 Do enjoy using this repository as you like.
+
+
+# YOU CAN CONTACT ME BY E-MAIL FOR ANY KIND OF LEGAL PURPOSES.

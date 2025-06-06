@@ -11,4 +11,6 @@ It is available for Unreal Engine 4.25, 4.26 and 4.27. Although so, since I had 
 
 Do enjoy using this repository as you like.
 
+VRGK v3 added in 06.06.2025
+
 
